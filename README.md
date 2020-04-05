@@ -1,3 +1,3 @@
-記錄我刷題的程式碼
+記錄LeetCode刷題的程式
 
 LeetCode: https://leetcode.com/problemset/all/
