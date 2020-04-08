@@ -66,7 +66,7 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
 
-    print(solution.singleNumber([0,1,0,3,12]))
+    print(solution.singleNumber([4,1,2,1,2]))
 
     print(solution.isHappy(19))
 
