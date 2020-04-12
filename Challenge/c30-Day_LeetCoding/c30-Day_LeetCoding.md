@@ -15,8 +15,8 @@
 
 1. (876. Easy) Middle of the Linked List
 2. (844. Easy) Backspace String Compare
-3. 
-4. 
+3. (155. Easy) Min Stack
+4. (543. Easy) Diameter of Binary Tree
 5. 
 6. 
 7. 
