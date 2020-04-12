@@ -17,7 +17,7 @@
 2. (844. Easy) Backspace String Compare
 3. (155. Easy) Min Stack
 4. (543. Easy) Diameter of Binary Tree
-5. 
+5. (1046.Easy) Last Stone Weight
 6. 
 7. 
 
