@@ -18,6 +18,15 @@
 3. (155. Easy) Min Stack
 4. (543. Easy) Diameter of Binary Tree
 5. (1046.Easy) Last Stone Weight
+6. (525. Medium) Contiguous Array
+7. (000. ) Perform String Shifts
+
+## Week 3: April 15th–April 21st
+1. 
+2. 
+3. 
+4. 
+5. 
 6. 
 7. 
 
