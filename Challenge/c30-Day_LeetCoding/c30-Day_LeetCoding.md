@@ -22,10 +22,10 @@
 7. (000. ) Perform String Shifts
 
 ## Week 3: April 15th–April 21st
-1. 
-2. 
-3. 
-4. 
+1. (238. Medium) Product of Array Except Self
+2. (678. Medium) Valid Parenthesis String
+3. (200. Medium) Number of Islands
+4. (064. Medium) Minimum Path Sum
 5. 
 6. 
 7. 
