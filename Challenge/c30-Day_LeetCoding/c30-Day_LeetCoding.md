@@ -26,6 +26,15 @@
 2. (678. Medium) Valid Parenthesis String
 3. (200. Medium) Number of Islands
 4. (064. Medium) Minimum Path Sum
+5. (033. Medium) Search in Rotated Sorted Array
+6. (1008.Medium) Construct Binary Search Tree from Preorder Traversal
+7. (000. ) Leftmost Column with at Least a One
+
+## Week 4: April 22nd–April 28th
+1. (560. Medium) Subarray Sum Equals K
+2. (201. Medium) Bitwise AND of Numbers Range
+3. 
+4. 
 5. 
 6. 
 7. 
