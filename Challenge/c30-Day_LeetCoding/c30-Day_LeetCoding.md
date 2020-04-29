@@ -33,9 +33,12 @@
 ## Week 4: April 22nd–April 28th
 1. (560. Medium) Subarray Sum Equals K
 2. (201. Medium) Bitwise AND of Numbers Range
-3. 
-4. 
-5. 
-6. 
-7. 
+3. (146. Medium) LRU Cache
+4. (055. Medium) Jump Game
+5. (1143.Medium) Longest Common Subsequence
+6. (221. Medium) Maximal Square
+7. (000. ) First Unique Number
 
+## Week 5: April 29th–April 30th
+1. (124. Hard) Binary Tree Maximum Path Sum
+2. 
